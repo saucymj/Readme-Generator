@@ -36,6 +36,8 @@
   ## Tests
 
   use the terminal inside of vs code.
+  
+  Video of used code: https://drive.google.com/file/d/1kkKWBMWz8VKx3RX5iIEVlwm-wMxCz9PW/view?usp=sharing
 
   ## Questions
 
