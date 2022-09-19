@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Description(#table-of-contents)
+  ## Description
 
   ${data.motivation}
 
@@ -56,29 +56,29 @@ function generateMarkdown(data) {
 
   ${data.learning}
 
-  ## Installation(#table-of-contents)
+  ## Installation
 
   ${data.installation}
 
-  ## Usage(#table-of-contents)
+  ## Usage
 
   ${data.usage}
 
-  ## Contributing(#table-of-contents)
+  ## Contributing
 
   ${data.contributersRules}
 
-  ## Tests(#table-of-contents)
+  ## Tests
 
   ${data.tests}
 
-  ## Questions(#table-of-contents)
+  ## Questions
 
   If you have any additional questions, feel free to reach me at:
 
-  [GitHub] (https://github.com/${data.github})
+  GitHub: https://github.com/${data.github}
 
- [Email: ${data.email}](mailto: ${data.email})
+ Email: ${data.email}
 
 
 
