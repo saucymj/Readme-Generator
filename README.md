@@ -13,7 +13,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Description(#table-of-contents)
+  ## Description
 
   To be able to allow users to create a professional readme.
 
