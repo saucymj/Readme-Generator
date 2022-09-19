@@ -41,7 +41,7 @@
 
   If you have any additional questions, feel free to reach me at:
 
-  GitHub: (https://github.com/saucymj
+  GitHub: https://github.com/saucymj
 
  Email: mekhi.banks@ymail.com
 
