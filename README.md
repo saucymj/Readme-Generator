@@ -21,23 +21,23 @@
 
   I learned that node is a very complex but useful tool.
 
-  ## Installation(#table-of-contents)
+  ## Installation
 
   downloading the npm was the most important step, it allowed for this to run properly.
 
-  ## Usage(#table-of-contents)
+  ## Usage
 
   Helping users make readme's for their repositories.
 
-  ## Contributing(#table-of-contents)
+  ## Contributing
 
-  none
+  No contributors
 
-  ## Tests(#table-of-contents)
+  ## Tests
 
   use the terminal inside of vs code.
 
-  ## Questions(#table-of-contents)
+  ## Questions
 
   If you have any additional questions, feel free to reach me at:
 
